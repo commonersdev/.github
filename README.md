@@ -1,2 +1,2 @@
 # .github
- A profile repo for the Commoners
+ An organization repo for the Commoners
